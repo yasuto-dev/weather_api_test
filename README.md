@@ -1,0 +1,2 @@
+# weather_api_test
+お天気apiを使いjson形式で取り込むアプリ
